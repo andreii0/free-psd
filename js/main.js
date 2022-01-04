@@ -1,0 +1,9 @@
+$(function(){
+$('.slider-inner').slick();
+
+
+
+
+
+
+})
