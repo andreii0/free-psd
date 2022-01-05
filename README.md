@@ -1,1 +1,1 @@
-Не могу сделать шрифт [посмотрите сами](https://github.com/andreii0/free-psd/index.html).
+Не могу сделать шрифт [посмотрите сами](https://andreii0.github.io/free-psd/).
