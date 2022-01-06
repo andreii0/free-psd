@@ -225,7 +225,7 @@ header {
 }
 .about-title_box{
     max-width: 520px;
-    padding-left: 14px;
+    padding-left: 140px;
     position: relative;
 }
 .about-title_box::before{
